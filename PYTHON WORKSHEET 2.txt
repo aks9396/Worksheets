@@ -1,0 +1,62 @@
+1) B
+
+2) C
+
+3) B
+
+4) A
+
+5) C
+
+6) C
+
+7) A
+
+8) B
+
+9) A,B,D
+
+10)A,C,D
+
+11)LIST: It contains ordered collection of data.
+	 It is mutable.
+	 Enclosed by square bracket [].
+   
+   Tuple: It contains ordered collection of data.
+	  It is immutable.
+	  Enclosed by parenthesis ().
+ 
+   SET:	 It contains UNordered collection of data.
+	 It is mutable.\
+	 It does ot contain duplicate values.
+	 Enclosed by curly bracket {}.
+  
+   Dictionary: It contains ordered collection of data.
+	       It is mutable.
+	       it contains data as key:value.
+	       Enclosed by curly bracket {}.
+
+12)  Strings are immutable.
+      
+	CODE:
+		String = ('I+Love+Python')
+		print(String.replace('+',' '))
+
+13) ORD(): It basically returns the unicode code point for the passed argument. 
+           It accepts a string of length 1 only.
+     
+	Example:
+ 	     
+		print("The unicode code for 9 is",ord('9'))
+	    output: The unicode code for 9 is 57
+
+	Function for getting datatype:   type()
+
+14)  https://github.com/aks9396/Worksheet/blob/master/Quadratic%20equation.ipynb
+
+15)  # To find out the sum of n natural numbers without using loops.
+
+	n = int(input('Enter the no:'))
+	Sum = n * (n+1) / 2
+
+	print("The sum of n natural numbers is:",Sum)
