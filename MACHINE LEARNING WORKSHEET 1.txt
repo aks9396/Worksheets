@@ -1,0 +1,45 @@
+1)  C
+
+2)  D
+
+3)  C
+
+4)  D
+
+5)  B
+
+6)  B
+
+7)  B
+
+8)  B,C
+
+9)  C,D
+
+10) A,D
+
+11) OUTLIERS:  These are the data points which are at abnormal distance from other values,
+               which may have arises due to some kind of errors like measuring, experimental,
+	       data entry, etc.
+
+      IQR:  A data poiint is said to be an outlier if it is more than 1.5*IQR below the first
+            quartile or above the third quartile.
+
+12) Bagging:  Each model receives equal weight as they are built independently which aims to
+	      decrease variance.
+    Boosting: Each model is weighted according to their performance. New models depends on
+	      previously built models. Its try to reduce bias.
+
+13) The adjusted R2 is a modified version of R2 that has been adjusted for the number of 
+	 predictors in the model. 
+
+14)  Standardization:  The process of rescaling the attributes so that they have a mean
+	               of 0 and standard deviation of 1.
+     Normalization:  The proces of rescaling the attributes so that their values will
+	             lie between 0 to 1.
+
+15)  CROSS-VALIDATION: it is a technique for assessing the effectiveness of our ML model by
+	                spliting the data into multiple folds and training the algorithm on them.
+
+		It reduces overfitting.
+		Increases training time.

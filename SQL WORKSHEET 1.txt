@@ -1,0 +1,44 @@
+1)  A,D
+
+2)  A,B
+
+3)  B
+
+4)  B
+
+5)  A
+
+6)  C
+
+7)  B
+
+8)  B
+
+
+9)  B
+
+10) C
+
+11)  Data Warehouse is a system which is used for storing and reporting on data 
+     typicaly originating from multiple systems and then moved into data warehouse
+     for long term storage and analysis.
+
+12)  OLTP: It stand for Online Transaction Process.It captures stores and process data
+           from transaction in ral time.
+
+     OLAP: It stands for Online Analytical Process.It uses queries to analyze
+           historical data from OLTP.
+
+13)  Charateristics of data warehouse:
+           1- Time variant
+	   2- Non Volatile
+	   3- Integrated
+	   4- Subject oriented
+
+14)  Star Schema has one fact table in its centre and other associatd dimension tables
+      resembling like a star.It is simplest type of data warehouse which is optimised
+       for quering large data sets.
+
+15)  SETL: It is a programming language based on the mathematical theory of sets.  
+
+  
