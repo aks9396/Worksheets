@@ -1,0 +1,55 @@
+1) Linear kernel: It is used when the data is seperable using a straight line.
+		  Tt is mainly used when data has large number of feaetures.
+
+   RBF Kernel :   It is used when the data is seperable using a curve line.
+		  It uses 2 main parameters- Gamma and C.
+
+   Polynomial kernel: It is more generalised form of linear kernel where 
+		      d is the degree of polynomial. When d=1 then it is 
+		      similar to linear kernel.
+
+4) Gini Impurity : It is one of the methods used in Decision Tree algorithm.
+		   It tell us the probability of a particular observation being
+		   wrongly classified.
+
+5)  Yes because Decision tree tends to grow deep to make a decision which makes
+    it specific and complicated, as a result it tends to overfit. That's why 
+    parameters are used to limit its leaf nodes or to control how deep it should go.
+
+6) Ensemble technique :  These are the techiniques in machine learning that creats
+			 multiple models and then combine them to make a better model
+			 with improved results. Usualyy it produces more accurate solutions
+			 than a single model would.
+
+7) Bagging is the process of taking bootstraps & then aggregating the models learned on
+   each bootstrap.
+   Boosting is the process of reducing bias and converting weak learners to strong learners
+   and improves the model predictions.
+
+8) The out-of-bag (OOB) error is the average error for each calculation using predictions
+   from the trees that do not contain in their respective bootstrap sample.
+
+9) Cross-Validation : It is a technique to evaluate the model predictions by partitioning 
+                      the original data into multiple traing and test data which is done
+		      by a single parameter known as K.Which defines the no of splits.
+
+10) Hyperparameter:  It is the process of maximizing a model's performance without 
+		     overfitting or underfitting it.
+		     with the help of some parameters, we can control the behavior of
+		     algoithm and thus its impact on model performance.
+
+12)  An algorithm can have low bias and high variance which is prone to overfitting and
+     algorithm with high bias and low variance is prone to underfitting.
+     The condtion which lies in between these two condtion is known as bias-variance trade off.
+
+13)  Regularization is the process which regularizes or shrinks the coefficients towards zero.
+     It discourages learning a more complex or flexible model, to prevent overfitting.
+
+14) ADBOOSTING : It is a boosting ensemble model which learns from the eprevios mistakes by
+		 increasing the weight if misclassifies data points.
+    GRADIENTBOOSTING : It is a boosting ensemble model which like adaboost,learns from previous
+	               mistake, but by redual error rather then weight of data points.
+
+15) No we can't use because logistic regression is used to come up with a hyperplane
+    in feature space to separate observations that belong to a class from all the other 
+    observations that do not belong to that class. The decision boundary is thus linear.
