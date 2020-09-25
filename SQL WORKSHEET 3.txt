@@ -1,0 +1,59 @@
+1) CREATE TABLE customers(
+	customerNumber VARCHAR(15) NOTNULL,
+	customerName VARCHAR(25),
+	contactLastName CHAR (10),
+	contactFirstName CHAR (25),
+	phone INT NOTNULL,
+	addressLine1 VARCHAR(30),
+	addressLine2 VARCHAR(30),
+	city CHAR,
+	state CHAR NOTNULL,
+	postalCode INT NOTNULL,
+	country VARCHAR(30),
+	salesRepEmployeeNumber VARCHAR NOTNULL,
+	creditLimit INT NOTNULL,
+	PRIMARY KEY (customerNumber)
+	);
+
+2) CREATE TABLE orders (	
+	orderNumber VARCHAR NOT NULL,
+	orderDate DATE,
+	requiredDate DATE,
+	shippedDate DATE,
+	status VARCHAR,
+	comments VARCHAR,
+	customerNumber VARCHAR(15),
+	PRIMARY KEY (orderNumber)
+	);
+3) select * FROM orders;
+
+
+4) select comments FROM orders;
+
+
+5) select ordernumber,orderDate FROM orders;
+
+
+6) select employeeNumber, lastName, firstName FROM employees;
+
+
+7)
+
+8) select customerName, salesRepEmployeeNumber FROM customers;
+
+
+9) select paymentdate, amount FROM payments;
+
+
+10) select peoductName, MSRP, productDescription FROM products;
+
+
+11)
+
+12)
+
+13) select MAX(customerNumber) FROM customers GROUPBY state;
+
+14)
+
+15)
