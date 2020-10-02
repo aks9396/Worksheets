@@ -1,0 +1,66 @@
+				PYTHON WORKSHEET 1
+
+
+1)  C
+
+2)  B
+
+3)  C
+
+4)  A
+
+5)
+
+6)  C
+
+7)  A
+
+8)  C
+
+9)  A,C
+
+10)  A,B
+
+11)  #  For finding factorial of a number
+
+def factorial(n): 
+       
+    return 1 if (n==1 or n==0) else n * factorial(n - 1);  
+  
+num = int(input("Enter a number: ")); 
+print("Factorial of",num,"is",factorial(num)) 
+
+
+12)  # Program to check if a number is prime or not
+
+
+num = int(input("Enter a number: "))
+
+if num > 1:      # prime numbers are greater than 1
+  
+    for i in range(2,num):
+        if (num % i) == 0:
+            print(num,"is not a prime number")
+            break
+    else:
+        print(num,"is a prime number")
+       
+ # if input number <= 1, then it is not a prime no.
+ 
+else:
+    print(num,"is not a prime number")
+
+
+13)
+
+14)  # Finding 3rd side of right angled triangle
+
+from math import sqrt
+print("Input lengths of 2 sides of triangle:")
+a = float(input("a: "))
+b = float(input("b: "))
+
+c = sqrt(a**2 + b**2)
+print("The length of the third side is", c )
+
+15)
