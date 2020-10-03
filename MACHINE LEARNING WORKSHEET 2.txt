@@ -1,0 +1,55 @@
+
+			Machine Learnig Worksheet 2
+
+
+1)  C
+
+2)  B
+
+3)  C
+
+4)  B
+
+5)  B
+
+6)  A, D
+
+7)  B, C
+
+8)  A,  C
+
+9)  A,  B
+
+10)
+
+11) The main diff between Ridge and Lasso is that it tends to make 
+    coefficients to absolute zero whereas Ridge never sets the value
+    of coefficient to absolute zero.
+
+12) VIF - The variance inflation factor identifies correlation between 
+          independent variables and the strength of that correlation.
+	  Suitable value for VIF is under 10.
+
+13)      It basically helps to normalise the data within a particular range so
+	 that unnecessary weight is not given to independent variables just
+	 because of their measured units.
+
+14) ADJUSTED R SQUARE
+    RESIDUAL STANDARD ERROR
+    MEAN ABSOLUTE PERCENTAGE ERROR
+
+15) Sensitivity / Recall = TP/(TP+FN)
+			   1000/(1000+50)
+		         = 0.9529
+
+   Specificity = TN/(TN+FP)
+		  1200/(1200+250)
+		= 0.8276 
+
+   Precesion = TP/(TP+FP)
+		1000(1000+250)
+	       = 0.80
+
+   Accuracy = (TP+TN)/(TP+FP+TN+FN)
+	    = (1000+1200)/(1000+250+1200+50)
+	    = 0.88
