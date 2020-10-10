@@ -1,0 +1,45 @@
+			MACHINE LEARNING WORKSHEET - 4
+
+
+1)  A
+
+2)  A
+
+3)  B
+
+4)  C
+
+5)  C
+
+6)  A
+
+7)  B
+
+8)  B
+
+9)  GINI INNDEX = 0.48
+  
+10)  Advantages:
+
+          1   It gives variable importance which helps in determining the variable which impacts
+              positively.
+	  2   Decision tree models are often overfitted, random forest classifiers wouldn't
+	      get overfitted.
+	  3   It can be used as a regression as well as classification model.
+
+11)   It basically helps to normalise the data within a particular range. Sometimes, it also
+	 helps in speeding up the calculations in an algorithm.
+	Normalization and Standardization are 2 methods of scaling.
+
+12)  
+
+13) Accuracy is not a good measure for imbalanced dataset as it may be very biased.
+
+14) F_Score is a measure of a test's accuracy and is defined as the weighted harmonic mean of
+	 the precision and recall of the test.
+
+	F_Score = 2. (Precesion*Recall) / (Precesion + Recall)
+
+15)  fit() is used to calculate parameters for transformation.
+     transform() It Transform the model according to fitted model from fit().
+     fit_transform() it performs both the above function in single code.
