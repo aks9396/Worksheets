@@ -1,0 +1,39 @@
+
+			PYTHON WORKSHEET – WORKSHEET 4
+
+1)  B
+
+2)  B
+
+3)  B
+
+4)  D
+
+5)  C
+
+6)  A
+
+7)  C
+
+8)  B
+
+9)  A,  B
+
+10)  A,  B,  D
+
+11)  Interpreter  : It translates program one statment at a time which usually takes less amount of time, but
+		    the overall time taken is comarativey slower then compilers.
+
+     Compiler  :    It scans the entire program and translates it as as whole into machine code which usually takes 		    a large amount of time but its overalla time id aomparatively faster.
+
+    Interpreter is used in Python language.	
+
+12)  These can be set to add additional directories where python will look for modules and packages.
+
+13)  to remove leading and trailing space ina  string 'A' :   A.strip()
+
+		ex.   A= "  The world is not enough   "
+			A.strip()
+	
+		Output =   "The world is not enough"
+	
