@@ -1,0 +1,38 @@
+
+
+				Statistics  WORKSHEET 6
+
+
+1)  B
+
+2)  C
+
+3)  A
+
+4)  A
+
+5)  C
+
+6)  B
+
+7)  B
+
+8)  D
+
+9)  A
+
+10) Bayes theorem : It describes the probability of an event when we already know the previos outcome of  that may 		    be related to the event.
+
+11) Z-SCORE : Its describes the distance of a variable from mean of data in terms of standard deviation. 
+
+12) T-TEST : It compares the mean of two samples which is used in hypothesis testing with null hypothesis that the 	     difference between the means is zero.
+             It helps to find out whether two population are different from each other or not.
+
+13) Percentile :  It is the value below which the percentage of data falls.
+
+14) ANOVA : It stand for analysis of variance which is a test to check the statistical differnce between 2 or more             populations.
+	    
+
+15) Anova is just like T-TEST, but it can be used to check for moe then 2 population groups whereas in T-TEST, we 	    can only check for 2 groups.
+	    It checks the impact of one or more factors by comparing the means of different samples.
+
