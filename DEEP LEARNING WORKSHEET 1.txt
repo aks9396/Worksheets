@@ -1,0 +1,35 @@
+
+
+					WORKSHEET-1 DEEP LEARNING
+
+1)  B
+
+2)  D
+
+3)  C
+
+4)  A
+
+5)  A
+
+6)  C
+
+7)  B
+
+8)  A
+
+9)  A,  B,  D
+
+10)  B,  D
+
+11)  Deep learning is a subset of Machine learning which is based on learning and improving on its own. It works on       artificial neural networks to think and learn, just like human minds.
+
+12)  Reinforcement Learniing is a method of deep learning which helps us to learn how to attain a complex objective       or maximize a specific dimension over many steps.
+
+13)  Machine learning is a subset of artificial intelligence which consists of the technique that enable computers      to find solutions from the data.while deeplearning is subset of machine learning that enables computers to      solve more complex problems.
+
+14)  Perceptron in machine learning is an algorithm for supervised learning of binary classifier which      makes its predictions based on a linear predictor function combining a set of weights with the feature vector.
+
+15)  Machine learning is a subset of artificial intelligence which consists of the technique that enable computers        to find solutions from the data.
+	AI is the study of how to train the computers so that computers can do things which at present human can do         better.
+
